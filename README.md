@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm <a href="https://github.com/yogasree12-06" target="_blank"> Yogasree </a></h1>
+<h1 align="left">👋 Hi, I'm <a href="https://yogarajendran.neocities.org/Portfolio/profolio" target="_blank"> Yogasree </a></h1>
 <h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&size=20&width=500&lines=Full-Stack+Web+Developer;JavaScript+%26+Python+Developer;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" /> </h3>
 
 - 👩‍💻 Full-Stack Web Developer passionate about building interactive, scalable, and user-centric applications.
@@ -6,10 +6,11 @@
 - 📱 Crafted [StudyFlow](https://github.com/yogasree12-06/studyflow) and [Study-Planner](https://github.com/yogasree12-06/Study-Planner) to streamline student learning schedules and boost daily productivity.
 - ⭐ Built projects like [Healthcare-appointment](https://github.com/yogasree12-06/Healthcare-appointment), [Task Management](https://github.com/yogasree12-06/Task_Management), and [Quiz Game](https://github.com/yogasree12-06/Quiz_game).
 - 🔗 Open for tech discussions, open-source collaborations, and exciting opportunities. Let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my projects across my repositories! 💻❤️
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in my [Portfolio](https://yogarajendran.neocities.org/Portfolio/profolio)! 💻❤️
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
+  <a href="https://yogarajendran.neocities.org/Portfolio/profolio" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yogasree" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ryogasree2006@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/yogasree12-06" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
