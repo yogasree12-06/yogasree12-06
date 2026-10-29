@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm <a href="https://yogarajendran.neocities.org/Portfolio/profolio" target="_blank"> Yogasree </a></h1>
-<h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&size=20&width=500&lines=Web+Developer;JavaScript+%26+Python+Developer;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" /> </h3>
+<h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&size=20&width=500&lines=Developer+Fresher;JavaScript+%26+Python+Developer;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" /> </h3>
 
 - 👩‍💻 Developer passionate about building interactive, scalable, and user-centric applications.
 - 📫 How to reach me: [ryogasree2006@gmail.com](mailto:ryogasree2006@gmail.com)
