@@ -53,14 +53,15 @@
  <!-- <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>-->
 
-<h3 align="left">📊 GitHub Activity:</h3>
-<!--<table>
+<!--<h3 align="left">📊 GitHub Activity:</h3>
+<table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yogasree12-06&show_icons=true&theme=dark&locale=en" alt="yogasree12-06" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogasree12-06&show_icons=true&theme=dark&locale=en&layout=compact" alt="yogasree12-06" /></td>
   </tr>
-</table>-->
+</table>
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogasree12-06&theme=dark" alt="yogasree12-06" /></p>
 </div>
+-->
