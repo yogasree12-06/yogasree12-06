@@ -1,7 +1,7 @@
 <h1 align="left">👋 Hi, I'm <a href="https://yogarajendran.neocities.org/Portfolio/profolio" target="_blank"> Yogasree </a></h1>
-<h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&size=20&width=500&lines=Full-Stack+Web+Developer;JavaScript+%26+Python+Developer;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" /> </h3>
+<h3 align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&size=20&width=500&lines=Web+Developer;JavaScript+%26+Python+Developer;Passionate+Problem+Solver+%26+Builder" alt="Typing SVG" /> </h3>
 
-- 👩‍💻 Full-Stack Web Developer passionate about building interactive, scalable, and user-centric applications.
+- 👩‍💻 Developer passionate about building interactive, scalable, and user-centric applications.
 - 📫 How to reach me: [ryogasree2006@gmail.com](mailto:ryogasree2006@gmail.com)
 - 📱 Crafted [StudyFlow](https://github.com/yogasree12-06/studyflow) and [Study-Planner](https://github.com/yogasree12-06/Study-Planner) to streamline student learning schedules and boost daily productivity.
 - ⭐ Built projects like [Healthcare-appointment](https://github.com/yogasree12-06/Healthcare-appointment), [Task Management](https://github.com/yogasree12-06/Task_Management), and [Quiz Game](https://github.com/yogasree12-06/Quiz_game).
